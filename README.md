@@ -8,6 +8,8 @@ Vanhuksille Tangram-peli mielenvirkistykseksi. Auttaa hienomotoriikan ja käsi-s
 
 Pelissä tarkoitus muodostaa kaikista annetuista paloista (kolmioista ja nelikulmioista) mallin muotoinen kuvio. Aikarajaa ei ole. Kuviot mahdollisesti jouluaiheisia, luukun numeron verran kuviovaihtoehtoja - kuvion ratkaiseminen paljastaa ruudulla mitä kuvio esitti ja soittaa onniteluäänen.
 
+Paloja voi kääntää joko kahdella sormella 'manuaalisesti' tai valitsemalla palan ja painamalla kääntönappia.
+
 ##Peliesimerkkejä
 
 Muita onlineversioita pelistä malliesimerkiksi:
